@@ -1,2 +1,2 @@
 # DSA-with-KK
-This repository contains all the programs I wrote in Java while practicing Data Structures and Algorithms (DSA).
+A collection of Java programs I created while learning and implementing various Data Structures and Algorithms (DSA) concepts.
